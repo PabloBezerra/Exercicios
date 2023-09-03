@@ -1,2 +1,2 @@
-# Exercicios
- Meus Exercicios de HTML,CSS e JavaScript na construção de sites
+# QrCode
+ Exercicio básico em HTML e CSS proposto pela Frontend Mentor
