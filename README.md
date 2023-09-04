@@ -19,12 +19,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Captura de tela 2023-09-03 215321](https://github.com/PabloBezerra/QrCode/assets/133273609/99a8d84b-43bf-4f8b-aeae-2b2e3d71275b)
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution here](https://www.frontendmentor.io/solutions/pgina-de-qrcode-responsiva-usando-css-flex-HrhJak_xuQ)
+- Live Site URL: [Live site URL](https://pablobezerra.github.io/QrCode/)
 
 ## My process
 
@@ -33,13 +34,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
